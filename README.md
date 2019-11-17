@@ -3,15 +3,15 @@ Final project repo for 15-388 with Alia, Scott and Swarnim
 
 # Counties
 Florida, Duval </br>
-Florida, Hillsborough
-Florida, Miami-Dade
+Florida, Hillsborough </br>
+Florida, Miami-Dade</br>
 
-North Carolina, New Hanover
-North Carolina, Wake
-North Carolina,, Watauga
+North Carolina, New Hanover </br>
+North Carolina, Wake</br>
+North Carolina,, Watauga </br>
 
-Ohio, Belmont
-Ohio, Hamilton
+Ohio, Belmont </br>
+Ohio, Hamilton </br>
 
-Pennsylvania, Chester
-Pennsylvania, Philadelphia
+Pennsylvania, Chester </br>
+Pennsylvania, Philadelphia </br>
