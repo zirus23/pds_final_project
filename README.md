@@ -2,7 +2,7 @@
 Final project repo for 15-388 with Alia, Scott and Swarnim
 
 # Counties
-Florida, Duval </b>
+Florida, Duval </br>
 Florida, Hillsborough
 Florida, Miami-Dade
 
